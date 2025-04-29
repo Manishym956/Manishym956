@@ -17,7 +17,7 @@ I love building things—from Web Apps to creative personal projects—and I'm a
 ### 🌱 Currently Learning:
 - WebRTC
 - Clean Architecture in React
-- Deep dives into backend basics (Node.js & APIs) lalalallalalla
+- Deep dives into backend basics (Node.js & APIs)
 
 Let's connect and build something awesome together!
 
@@ -35,7 +35,10 @@ Let's connect and build something awesome together!
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 # 📊 GitHub Stats:
