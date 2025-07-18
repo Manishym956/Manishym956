@@ -1,25 +1,28 @@
-# 💫 About Me:
-Hey there! I'm **Manish Y M**, an evergrowing software developer and student at **Polaris School of Technology**, Bengaluru.
+# 💫 About Me  
+Hey there! I'm **Manish Y M**, a passionate and detail-oriented software developer currently studying at **Polaris School of Technology**, Bengaluru.
 
-I love building things—from Web Apps to creative personal projects—and I'm always diving into new technologies through open-source contributions and internships.
-
----
-
-### 💡 Interests & Focus:
-- 🌆 MERN Stack
-- 🧠 Data Structures & Algorithms
-- 🌐 Open Source Contributions
-- 💻 Personal Projects & Hackathons
-- 🚀 Internships that challenge and grow me
+I thrive on building **user-centric applications**—from full-stack platforms to AI-powered tools—and I’m constantly exploring new technologies through **open-source contributions**, **technical projects**, and **internship opportunities**.
 
 ---
 
-### 🌱 Currently Learning:
-- WebRTC
-- Clean Architecture in React
-- Deep dives into backend basics (Node.js & APIs)
+## 💡 Interests & Focus  
+- ⚙️ Backend Development with **Python & FastAPI**  
+- 🧠 AI Integration & Computer Vision Projects  
+- 🌐 Open Source Contributions (SymPy, MariaDB, OneBusAway)  
+- 📦 Automation & Workflow Optimization  
+- 🚀 Building Scalable Full-Stack Applications
 
-Let's connect and build something awesome together!
+---
+
+## 🌱 Currently Exploring  
+- 🧩 Local AI tools like **Ollama** for privacy-focused apps  
+- 🧠 Advanced React concepts & **Tailwind CSS**  
+- 🔍 Debugging and refining **Gemini API** integrations  
+- 📸 OCR and analytics with **Tesseract.js** & **Chart.js**
+
+---
+
+Let’s connect and create something impactful together!
 
 ---
 # 🌐 Socials:
