@@ -8,7 +8,7 @@ I thrive on building **user-centric applications**—from full-stack platforms t
 ## 💡 Interests & Focus  
 - ⚙️ Backend Development with **Python & FastAPI**  
 - 🧠 AI Integration & Computer Vision Projects  
-- 🌐 Open Source Contributions (SymPy, MariaDB, OneBusAway)  
+- 🌐 Open Source Contributions (MariaDB, OneBusAway)  
 - 📦 Automation & Workflow Optimization  
 - 🚀 Building Scalable Full-Stack Applications
 
