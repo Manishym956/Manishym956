@@ -6,9 +6,10 @@ I thrive on building **user-centric applications**—from full-stack platforms t
 ---
 
 ## 💡 Interests & Focus  
-- ⚙️ Backend Development with **Python & FastAPI**  
-- 🧠 AI Integration & Computer Vision Projects  
-- 🌐 Open Source Contributions (MariaDB, OneBusAway)  
+- ⚙️ Backend Development with **Python, FastAPI and cloud-native APIs**  
+- 🧠 Applied AI & Vision Systems for real-world image and data analysis
+- 🔐 Authentication & Secure Systems (OAuth 2.0, JWT, access control)
+- ☁️ Cloud Infrastructure & Deployment using Render, Vercel, and GCP    
 - 📦 Automation & Workflow Optimization  
 - 🚀 Building Scalable Full-Stack Applications
 
@@ -19,6 +20,14 @@ I thrive on building **user-centric applications**—from full-stack platforms t
 - 🧠 Advanced React concepts & **Tailwind CSS**  
 - 🔍 Debugging and refining **Gemini API** integrations  
 - 📸 OCR and analytics with **Tesseract.js** & **Chart.js**
+- 🚀 Cloud Deployments with **Render**, **Vercel**, and **Google Cloud Run**
+- 🧠 AI Vision Pipelines using Gemini image analysis
+- 🔐 Secure Auth Systems including **Google OAuth 2.0 + JWT**
+- ☁️ Cloud-Native Backends using **FastAPI**, **MongoDB Atlas**, and **GCS**
+- 📦 API Integration Patterns for **image uploads**, **storage**, and **async processing**
+- 📊 Nutrition & ML Analytics with real-time history + stats dashboards
+- 🎨 Frontend Performance with **Vite**, **React**, **Tailwind**, and **component animations**
+- 🧪 End-to-End Debugging across **OAuth flows**, **CORS**, and **environment configs**
 
 ---
 
