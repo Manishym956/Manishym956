@@ -74,8 +74,8 @@ Here are the core areas I actively build and experiment in:
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manishym956&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manishym956&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Manishym956&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Manishym956&theme=tokyonight&hide_border=true&layout=compact" height="150" alt="Top Languages"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manishym956&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
 </div>
