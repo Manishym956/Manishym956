@@ -84,8 +84,6 @@ Here are the core areas I actively build and experiment in:
 
 ## 🐍 Activity Graph
 
-*Watch my code contributions feed the snake over time!*
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Manishym956/Manishym956/raw/output/github-contribution-grid-snake-dark.svg">
